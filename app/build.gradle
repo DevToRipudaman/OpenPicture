@@ -37,7 +37,7 @@ android {
 }
 
 dependencies {
-    implementation project(':utils')
+    implementation project(':openpicture')
 
     implementation 'com.squareup.picasso:picasso:2.5.2'
 
@@ -78,6 +78,8 @@ dependencies {
     implementation 'org.jetbrains.anko:anko-sqlite:0.10.2'
 
     implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
+
+    implementation 'com.github.DevToRipudaman:OpenPicture:0.1.0'
 
 
 }
