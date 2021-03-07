@@ -1,4 +1,3 @@
 include ':openpicture'
 include ':app'
-include 'utils'
 rootProject.name = "OpenPicture"
