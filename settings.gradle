@@ -1,5 +1,3 @@
-/*
 include ':openpicture'
-*/
 include ':app'
 rootProject.name = "OpenPicture"
